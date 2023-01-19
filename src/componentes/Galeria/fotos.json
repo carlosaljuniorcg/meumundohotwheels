@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "BatMobile",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-1.png",
+    "id": "1",
+    "tag": "Temático"
+  },
+  {
+    "titulo": "Lamborguini Gallardo",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-2.png",
+    "id": "2",
+    "tag": "Esportivo"
+  },
+  {
+    "titulo": "Lamborguini Countach",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-3.png",
+    "id": "3",
+    "tag": "Esportivo"
+  },
+  {
+    "titulo": "Porsche 911 GT3",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-4.png",
+    "id": "4",
+    "tag": "Esportivo"
+  },
+  {
+    "titulo": "Ford '40 Truck",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-5.png",
+    "id": "5",
+    "tag": "Picape"
+  },
+  {
+    "titulo": "Chevy Fleetline '47",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-6.png",
+    "id": "6",
+    "tag": "Clássico"
+  },
+  {
+    "titulo": "Honda Super Cub",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-7.png",
+    "id": "7",
+    "tag": "Moto"
+  },
+  {
+    "titulo": "BatMobile",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-8.png",
+    "id": "8",
+    "tag": "Temático"
+  },
+  {
+    "titulo": "La Troca",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-9.png",
+    "id": "9",
+    "tag": "Picape"
+  },
+  {
+    "titulo": "Ford '40 Truck",
+    "creditos": "Meu Mundo Hotwheels",
+    "imagem": "/assets/imagens/galeria/foto-10.png",
+    "id": "10",
+    "tag": "Picape"
+  }
+]
